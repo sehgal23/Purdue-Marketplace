@@ -1,0 +1,12 @@
+Name,Email,Password,Stores
+a,a,a,AudioElegance;New Empty Store
+Tech Haven Seller,seller1@techhaven.com,password1,
+Green Living Seller,seller2@greenliving.com,password2,Green Living;GreenTeaHarmony;EcoComfort
+BrewMaster Seller,seller3@brewmaster.com,password3,BrewMaster;CozyNook;FashionCraft;AudioSphere;CoffeeOnTheGo
+GameSphere Seller,seller4@gamesphere.com,password4,GameSphere;ArtisticHub;EcoFresh;EcoCharge;TechCharge;EcoSleep
+Nature's Bliss Seller,seller5@naturesbliss.com,password5,Nature's Bliss;AdventureGear;GardenJoy;HydroFlask;GreenThumb;New Store;TestStoreToAdd
+EcoGlow Seller,seller6@ecoglow.com,password6,EcoGlow;CulinaryCraft;SecureHome;ClimateControl;KitchenMasters;EcoDental
+FitZone Seller,seller7@fitzone.com,password7,FitZone;FitGear;PhotoPro;YogaVibes;EcoGlow;TeaHarbor;WeatherGuard;SweetIndulgence
+Nostalgia Lane Seller,seller8@nostalgialane.com,password8,Nostalgia Lane;FashionCraft;CulinaryTech
+ArtisanCrafts Seller,seller9@artisancrafts.com,password9,ArtisanCrafts;ArtisanCandles
+Sonic Beats Seller,seller10@sonicbeats.com,password10,Sonic Beats;FitTech;SerenitySpace

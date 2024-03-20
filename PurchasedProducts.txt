@@ -1,0 +1,25 @@
+Name,Store,Description,InitialQuantity,CurrentQuantity,Price
+Premium Leather Laptop Bag,FashionCraft,Sleek and durable laptop bag made from premium leather,18,10,69.99
+Handwoven Cotton Throw Blanket,CozyNook,Soft and cozy throw blanket made from handwoven cotton,60,60,44.99
+Smart Home Security Camera,SecureHome,Wireless security camera with real-time monitoring and smart features,20,20,129.99
+Chef's Knife Set,CulinaryCraft,High-quality chef's knives for precision and durability,40,40,79.99
+Premium Noise-Canceling Headphones,AudioElegance,Immersive audio experience with advanced technology,10,10,149.99
+Premium Bamboo Bed Sheets,EcoSleep,Luxurious bed sheets made from sustainable bamboo fibers,1,1,79.99
+Yoga Mat and Accessories Kit,YogaVibes,All-in-one kit for yoga enthusiasts,1,1,49.99
+High-Performance Blender,KitchenMasters,Blend smoothies and soups with this powerful kitchen appliance,3,3,129.99
+Wireless Charging Pad,TechCharge,Convenient wireless charging for compatible devices,30,30,19.99
+Natural Bamboo Bath Towel Set,AudioElegance,Luxurious and eco-friendly bath towels made from bamboo fibers,55,2,29.99
+Premium Tea Infuser Set,TeaHarbor,Enhance your tea experience with this stylish infuser set,40,10,14.99
+Organic Matcha Green Tea Powder,GreenTeaHarmony,High-quality ceremonial-grade matcha for a healthy boost,50,40,24.99
+Digital Drawing Tablet,ArtisticHub,Professional drawing tablet with pressure sensitivity and customizable buttons,15,4,199.99
+Home Workout Dumbbell Set,FitGear,Compact dumbbell set for versatile at-home workouts,80,20,59.99
+Solar Powered Phone Charger,AudioElegance,Charge your devices on the go with solar power,25,10,29.99
+Premium Noise Canceling Headphones,AudioElegance,Immersive audio expeirence with advanced technology,30,4,149.99
+Miniature Succulent Garden Kit,GardenJoy,Create your mini succulent garden with this DIY kit,25,8,19.99
+Collapsible Travel Backpack,AdventureGear,Compact and durable backpack for travel and outdoor adventures,35,6,29.99
+Stainless Steel Insulated Water Bottle,HydroFlask,Keeps your drinks cold or hot on the go,4,4,24.99
+Smart Home Thermostat,ClimateControl,Energy-efficient thermostat with smart home integration,5,2,99.99
+Indoor Herb Garden Kit,GreenThumb,Start your own herb garden indoors with this kit,4,1,34.99
+Portable Espresso Maker,CoffeeOnTheGo,Compact and portable espresso maker for coffee enthusiasts,30,10,49.99
+Bluetooth Fitness Tracker,FitTech,Track your fitness goals with this Bluetooth-enabled fitness tracker,65,10,39.99
+Bluetooth Noise Canceling Earbuds,AudioSphere,Wireless earbuds with noise-canceling technology for an immersive audio experience,50,40,79.99

@@ -1,0 +1,9 @@
+a's Purchased Products
+Product{name: [Natural Bamboo Bath Towel Set], storeName: [AudioElegance], description: [Luxurious and eco-friendly bath towels made from bamboo fibers], quantity: [2], price: 29.99]}
+Product{name: [Premium Tea Infuser Set], storeName: [TeaHarbor], description: [Enhance your tea experience with this stylish infuser set], quantity: [1], price: 14.99]}
+Product{name: [Organic Matcha Green Tea Powder], storeName: [GreenTeaHarmony], description: [High-quality ceremonial-grade matcha for a healthy boost], quantity: [1], price: 24.99]}
+Product{name: [Premium Noise Canceling Headphones], storeName: [AudioElegance], description: [Immersive audio expeirence with advanced technology], quantity: [3], price: 149.99]}
+Product{name: [Portable Espresso Maker], storeName: [CoffeeOnTheGo], description: [Compact and portable espresso maker for coffee enthusiasts], quantity: [3], price: 49.99]}
+Product{name: [Bluetooth Fitness Tracker], storeName: [FitTech], description: [Track your fitness goals with this Bluetooth-enabled fitness tracker], quantity: [10], price: 39.99]}
+Product{name: [Bluetooth Noise Canceling Earbuds], storeName: [AudioSphere], description: [Wireless earbuds with noise-canceling technology for an immersive audio experience], quantity: [40], price: 79.99]}
+Product{name: [Collapsible Travel Backpack], storeName: [AdventureGear], description: [Compact and durable backpack for travel and outdoor adventures], quantity: [3], price: 29.99]}

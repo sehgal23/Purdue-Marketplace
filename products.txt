@@ -1,0 +1,35 @@
+Name,Store,Description,InitialQuantity,CurrentQuantity,Price
+Premium Noise Canceling Headphones,AudioElegance,Immersive audio expeirence with advanced technology,30,12,149.99
+Organic Matcha Green Tea Powder,GreenTeaHarmony,High-quality ceremonial-grade matcha for a healthy boost,50,30,24.99
+Home Workout Dumbbell Set,FitGear,Compact dumbbell set for versatile at-home workouts,80,80,59.99
+Digital Drawing Tablet,ArtisticHub,Professional drawing tablet with pressure sensitivity and customizable buttons,15,10,199.99
+Handwoven Cotton Throw Blanket,CozyNook,new description for handwoven thing,70,70,44.99
+Miniature Succulent Garden Kit,GardenJoy,Create your mini succulent garden with this DIY kit,25,17,19.99
+Smart Home Security Camera,SecureHome,Wireless security camera with real-time monitoring and smart features,20,20,129.99
+Aromatherapy Essential Oil Diffuser,SerenitySpace,Ultrasonic diffuser for a calming atmosphere with essential oils,70,70,34.99
+Natural Bamboo Bath Towel Set,AudioElegance,new description fjdkslfjskfls,70,70,29.99
+Premium Leather Laptop Bag,FashionCraft,Sleek and durable laptop bag made from premium leather,18,18,69.99
+Bluetooth Noise Canceling Earbuds,AudioSphere,Wireless earbuds with noise-canceling technology for an immersive audio experience,50,10,79.99
+Portable Espresso Maker,CoffeeOnTheGo,Compact and portable espresso maker for coffee enthusiasts,30,22,49.99
+Natural Beeswax Candle Set,ArtisanCandles,Handcrafted beeswax candles with natural scents,50,50,14.99
+Bluetooth Fitness Tracker,FitTech,Track your fitness goals with this Bluetooth-enabled fitness tracker,65,55,39.99
+Reusable Silicone Food Storage Bags,EcoFresh,Environmentally friendly food storage solution,40,40,19.99
+Solar Powered Phone Charger,AudioElegance,Charge your devices on the go with solar power,25,20,29.99
+Wireless Charging Pad,TechCharge,Convenient wireless charging for compatible devices,60,30,19.99
+Premium Bamboo Bed Sheets,EcoSleep,Luxurious bed sheets made from sustainable bamboo fibers,20,8,79.99
+Collapsible Travel Backpack,AdventureGear,Compact and durable backpack for travel and outdoor adventures,35,25,29.99
+Stainless Steel Insulated Water Bottle,HydroFlask,Keeps your drinks cold or hot on the go,4,1,24.99
+Indoor Herb Garden Kit,GreenThumb,Start your own herb garden indoors with this kit,4,2,34.99
+Another green thing,GreenThumb,description green,4,2,55.1
+Smart Home Thermostat,ClimateControl,Energy-efficient thermostat with smart home integration,5,3,99.99
+High Performance Blender,KitchenMasters,Blend smoothies and soups with this powerful kitchen appliance,3,0,129.99
+Biodegradable Bamboo Toothbrush Set,EcoDental,Sustainable toothbrush set for eco-conscious oral care,1,1,9.99
+Digital SLR Camera,PhotoPro,Professional-grade camera for stunning photography,15,15,599.99
+Yoga Mat and Accessories Kit,YogaVibes,All-in-one kit for yoga enthusiasts,3,2,49.99
+Solar Powered Outdoor String Lights,EcoGlow,Decorate your outdoor space with eco-friendly solar-powered lights,2,2,24.99
+Premium Tea Infuser Set,TeaHarbor,Enhance your tea experience with this stylish infuser set,40,10,14.99
+Compact Folding Umbrella,WeatherGuard,Stay dry with this compact and durable folding umbrella,3,3,19.99
+Gourmet Chocolate Truffle Assortment,SweetIndulgence,Indulge in a variety of delicious chocolate truffles,7,7,29.99
+Digital Air Fryer,CulinaryTech,Enjoy crispy and healthy meals with this digital air fryer,8,8,89.99
+Chef's Knife Set,CulinaryCraft,High-quality chef's knives for precision and durability,40,0,79.99
+Retro Product,RetroClicks,this is a retro product. i am adding it to retro store.,30,30,13.0

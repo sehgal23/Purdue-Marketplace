@@ -1,0 +1,25 @@
+Name,Email,Password,Purchased Products,Shopping Cart
+a,a,a,Natural Bamboo Bath Towel Set-2;Premium Tea Infuser Set-1;Organic Matcha Green Tea Powder-1;Premium Noise Canceling Headphones-3;Portable Espresso Maker-3;Bluetooth Fitness Tracker-10;Bluetooth Noise Canceling Earbuds-40;Collapsible Travel Backpack-3,Premium Noise Canceling Headphones-1
+Alice Johnson,alice.johnson@email.com,password123,Miniature Succulent Garden Kit-8;Collapsible Travel Backpack-7,null
+Bob Smith,bob.smith@email.com,password456,Handwoven Cotton Throw Blanket-1,null
+Catherine Brown,catherine.brown@email.com,password789,Stainless Steel Insulated Water Bottle-1;Smart Home Thermostat-2,null
+David White,david.white@email.com,passwordabc,null,Stainless Steel Insulated Water Bottle-1
+Eva Miller,eva.miller@email.com,passworddef,null,null
+Frank Davis,frank.davis@email.com,passwordghi,null,null
+Grace Wilson,grace.wilson@email.com,passwordjkl,null,null
+Harry Thompson,harry.thompson@email.com,passwordmno,null,null
+Isabel Garcia,isabel.garcia@email.com,passwordpqr,null,null
+Jackie Robinson,jackie.robinson@email.com,passwordstu,null,null
+Kevin Patel,kevin.patel@email.com,passwordvwx,null,null
+Linda Lee,linda.lee@email.com,passwordyz,null,null
+Michael Kim,michael.kim@email.com,password123abc,null,null
+Nina Chen,nina.chen@email.com,password456def,null,null
+Oliver Brown,oliver.brown@email.com,password789ghi,Indoor Herb Garden Kit-1;Stainless Steel Insulated Water Bottle-2,null
+Pamela Wang,pamela.wang@email.com,passwordjklmno,null,null
+Quincy Jones,quincy.jones@email.com,passwordpqrstu,null,null
+Rachel Kim,rachel.kim@email.com,passwordvwxyz,null,null
+Samantha Davis,samantha.davis@email.com,password123abcxyz,null,null
+Tom Anderson,tom.anderson@email.com,password456defabc,null,null
+Sanketh Edara,edara@purdue.edu,ILoveVirginia,null,null
+z,z,z,null,Premium Tea Infuser Set-1
+,,jklj,null,null
