@@ -26,11 +26,6 @@
      - Sellers can view a list of their sales by store, including customer information and revenues from the sale.
      - Sellers can view the number of products currently in customer shopping carts, along with the store and details associated with the products
 
-## Submission Details 
-- Priyanka Soe - Submitting all solution code, test cases, and documentation on Vocareum by cloning the repository
-- Priyanka Soe - Submitting the written report on Brightspace
-- Priyanka Soe - Submitting video presentation
-- All - Submitting peer evaluation form(s) 
 
 ## Class Descriptions 
 
